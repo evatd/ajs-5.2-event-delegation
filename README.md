@@ -1,5 +1,9 @@
 # ajs-5.2-event-delegation
-Advanced JavaScript | Lecture 5 Task 2
+**Advanced JavaScript | Lecture 5 Task 2**
+
+Solution to the following task:
+
+### Task
 
 In exercise2.js, add an event listener for clicks on the div that has the id: button-wrapper.
 In the listener function, simply console.log the currentTarget property of the event object
